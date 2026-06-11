@@ -25,7 +25,7 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 
-type Page = "dashboard" | "inventory" | "orders" ;
+type Page = "dashboard" | "inventory" | "orders";
 
 interface DashboardLayoutProps {
   currentPage: Page;
@@ -91,7 +91,7 @@ function Sidebar({
                 </div>
                 <div>
                   <h1 className="font-bold text-foreground">
-                    STUFFUS<span className="text-primary">.ERP</span>
+                    Retek<span className="text-primary">.ERP</span>
                   </h1>
                   <p className="text-xs text-muted-foreground">
                     Enterprise System
