@@ -32,7 +32,7 @@ function ProductCard({ product, onUpdateStock }: ProductCardProps) {
 
   return (
     <div className="glass-card-hover overflow-hidden group">
-      {/* Image */}
+
       <div className="relative aspect-square overflow-hidden bg-muted flex items-center justify-center">
         {product.image && (
           <img
