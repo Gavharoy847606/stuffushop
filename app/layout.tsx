@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Retea.ERP | Enterprise Management System",
+  title: "Retek.ERP | Enterprise Management System",
   description:
     "Premium Full-Stack ERP, CRM, and WMS system for clothing wholesale",
   generator: "v0.app",
